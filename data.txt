@@ -1,0 +1,6 @@
+Name	Age	City
+Mike	29	Leipzig
+Bethany	29	Leipzig
+Kenny	28	Bismarck
+Tracey	??	Durham
+Sara	30	Bismarck
